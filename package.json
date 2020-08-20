@@ -1,0 +1,18 @@
+{
+  "name": "portal_escolar",
+  "version": "0.0.0",
+  "description": "portal escolar para controle de avaliações realizada por cada professor",
+  "main": "app.js",
+  "scripts": {
+    "test":"jest",
+    "test realtime": "jest --watch"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alessandro",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
